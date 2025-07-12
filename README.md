@@ -62,3 +62,5 @@ This simulates a simple intrusion detection system.
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f397abf1-73ed-43cf-a220-f561d69fd325" />
 
 <img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f397abf1-73ed-43cf-a220-f561d69fd325" />
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/ab25d68a-5774-4672-b164-d39f998d9e31" />

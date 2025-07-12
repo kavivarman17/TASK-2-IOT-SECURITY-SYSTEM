@@ -56,3 +56,7 @@ This simulates a simple intrusion detection system.
 ## 🔗 Simulation Link
 
 [🔗 Open Wokwi Simulation](https://wokwi.com/projects/436265467717992449)
+
+#OUTPUT
+
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/f397abf1-73ed-43cf-a220-f561d69fd325" />
